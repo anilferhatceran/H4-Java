@@ -1,10 +1,10 @@
-package dk.tec.myapp;
+package dk.tec.h4java;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class MyappApplicationTests {
+class H4javaApplicationTests {
 
 	@Test
 	void contextLoads() {
